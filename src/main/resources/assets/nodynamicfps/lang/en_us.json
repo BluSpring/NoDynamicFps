@@ -1,0 +1,4 @@
+{
+    "options.inactivityFpsLimit.disabled": "Disabled",
+    "options.inactivityFpsLimit.disabled.tooltip": "Disables the inactivity framerate limiter."
+}

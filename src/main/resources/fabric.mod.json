@@ -1,0 +1,27 @@
+{
+    "schemaVersion": 1,
+    "id": "nodynamicfps",
+    "version": "${version}",
+    "name": "NoDynamicFps",
+    "description": "Adds an option to disable Vanilla's Dynamic FPS implementation",
+    "authors": [
+        "BluSpring"
+    ],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/nodynamicfps/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "mm:early_risers": [
+            "xyz.bluspring.nodynamicfps.NoDynamicFps"
+        ]
+    },
+    "mixins": [
+        "nodynamicfps.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "minecraft": ">=1.21.2",
+        "fabric-api": "*"
+    }
+}
