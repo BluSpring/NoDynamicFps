@@ -7,7 +7,9 @@
     "authors": [
         "BluSpring"
     ],
-    "contact": {},
+    "contact": {
+        "sources": "https://github.com/BluSpring/NoDynamicFps"
+    },
     "license": "MIT",
     "icon": "assets/nodynamicfps/icon.png",
     "environment": "client",
