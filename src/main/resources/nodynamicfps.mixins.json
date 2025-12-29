@@ -4,8 +4,6 @@
     "package": "xyz.bluspring.nodynamicfps.mixin",
     "compatibilityLevel": "JAVA_21",
     "mixins": [
-        "sodium.OptionBuilderImplAccessor",
-        "sodium.SodiumGameOptionPagesMixin"
     ],
     "client": [
         "FramerateLimitTrackerMixin",

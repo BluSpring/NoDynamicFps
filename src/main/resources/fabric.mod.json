@@ -16,6 +16,9 @@
     "entrypoints": {
         "mm:early_risers": [
             "xyz.bluspring.nodynamicfps.NoDynamicFps"
+        ],
+        "sodium:config_api_user": [
+            "xyz.bluspring.nodynamicfps.compat.sodium.SodiumConfigEntrypoint"
         ]
     },
     "mixins": [
