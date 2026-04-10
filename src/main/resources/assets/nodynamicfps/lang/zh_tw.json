@@ -1,0 +1,6 @@
+{
+    "modmenu.nameTranslation.nodynamicfps": "沒有動態幀率",
+	"modmenu.descriptionTranslation.nodynamicfps": "新增一個選項來停用原版動態幀率執行",
+    "options.inactivityFpsLimit.disabled": "停用",
+    "options.inactivityFpsLimit.disabled.tooltip": "停用閒置時的幀率限制"
+}
