@@ -1,0 +1,4 @@
+{
+    "options.inactivityFpsLimit.disabled": "停用",
+    "options.inactivityFpsLimit.disabled.tooltip": "停用閒置時的幀率限制"
+}
