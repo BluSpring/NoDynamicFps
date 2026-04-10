@@ -1,4 +1,6 @@
 {
+    "modmenu.nameTranslation.nodynamicfps": "NoDynamicFps",
+	"modmenu.descriptionTranslation.nodynamicfps": "Adds an option to disable Vanilla\u0027s Dynamic FPS implementation",
     "options.inactivityFpsLimit.disabled": "Disabled",
     "options.inactivityFpsLimit.disabled.tooltip": "Disables the inactivity framerate limiter."
 }
